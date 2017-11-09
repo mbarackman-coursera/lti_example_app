@@ -23,4 +23,4 @@ To get this running with Docker, follow these steps:
   $ docker-compose run --rm lti-test-tool bundle exec rake db:seed
   $ docker-compose up
 
-You can add the tool to a tool consumer with the the '/tool_proxy' endpoint
+You can add the tool to a tool consumer with the the '/tool_proxy' endpoint.
